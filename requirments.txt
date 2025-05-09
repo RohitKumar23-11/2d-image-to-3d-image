@@ -1,0 +1,6 @@
+Numpy
+Pytorch with Cuda
+matplotlib
+open3d
+PIL
+transformers with GLPNImageProcessor, GLPNForDepthEstimation
